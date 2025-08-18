@@ -6,7 +6,7 @@ Unsupervised Learning: Clustering, dimensionality reduction, and anomaly detecti
 
 Recommender Systems: Collaborative filtering, content-based filtering, and hybrid methods.
 
-Reinforcement Learning: Q-learning, policy-based methods, and simulation-based experimen
+Reinforcement Learning: Q-learning, policy-based methods, and simulation-based experiment
 
 ## 🛠️ Technologies & Tools
 
